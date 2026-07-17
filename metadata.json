@@ -1,0 +1,6 @@
+{
+  "name": "AS Construction",
+  "description": "Professional construction company delivering high-quality residential, commercial, and industrial construction services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
